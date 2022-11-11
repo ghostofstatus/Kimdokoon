@@ -1,6 +1,7 @@
-# Welcome to GitHub Desktop!
+# 프로젝트 내역입니다.
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+00 - 공매도 사이렌
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-power dohyun
+01 - 소외주 매매법
+
+02 - 채용플랫폼을 이용한 부실기업 예측
